@@ -20,9 +20,9 @@ Además de su vida académica y sus hobbies, Guillermo también trabaja en una e
 
 En resumen, Guillermo Terán es un estudiante de ingeniería en ciencias computacionales con una pasión por la tecnología, aficionado a ver series, practicar y jugar al balonmano. Además, trabaja en APS y es responsable de dos vehículos de transporte escolar. Su vida está llena de diversas actividades que le permiten crecer en diferentes ámbitos y desarrollar una variedad de habilidades.
 
-Redes Sociales de Guillermo Terán
+## Información de Contacto
 
-Facebook: [enlace facebook](https://www.facebook.com/GuillermoITM/)
-LinkedIn: [enlace linkedin](https://www.linkedin.com/in/gteran12/)
-Github: [enlace github](https://github.com/gTeran12)
+- Facebook: [enlace facebook](https://www.facebook.com/GuillermoITM/)
+- LinkedIn: [enlace linkedin](https://www.linkedin.com/in/gteran12/)
+- Github: [enlace github](https://github.com/gTeran12)
 
