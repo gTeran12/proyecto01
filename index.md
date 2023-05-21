@@ -1,5 +1,7 @@
 # Guillermo Terán, apasionado jugador de balonmano y estudiante de la ESPOL
 
+![imagen](pics/guillermoTeran.jpg)
+
 Guillermo Terán es un estudiante de ingeniería en ciencias computacionales con diversos intereses y actividades. Entre sus hobbies favoritos se encuentran:
 - Ver series
 - Estudiar
